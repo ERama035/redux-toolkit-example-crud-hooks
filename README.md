@@ -81,3 +81,11 @@ yarn start
 Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
 
 The page will reload if you make edits.
+--------------------------------------------------------------
+
+local setup :
+1) front end:  https://www.bezkoder.com/redux-toolkit-example-crud/
+2) backend : https://www.bezkoder.com/spring-boot-jpa-h2-example/
+
+Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
+
